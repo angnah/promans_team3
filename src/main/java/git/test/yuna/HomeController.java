@@ -24,7 +24,7 @@ public class HomeController {
 	public String home(Locale locale, Model model) {
 		logger.info("Welcome home! The client locale is {}.", locale);
 		
-		System.out.println("깃허브 연결 테스트 !");
+		System.out.println("깃허브 연결 테스트입니다? ");
 		
 		
 		
