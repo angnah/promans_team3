@@ -26,7 +26,7 @@ public class dsTest {
 		try {
 			Connection connection = ds.getConnection();
 			
-			System.out.println("성공");
+			System.out.println("이게 맞지? ");
 		} catch (SQLException e) {e.printStackTrace();}
 		
 	}
