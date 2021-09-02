@@ -17,7 +17,7 @@ public class dbTest {
 			String url;
 			Connection connection = DriverManager.getConnection(info,id,pass);
 			
-			System.out.println("puss");
+			System.out.println("기선푸시");
 
 			
 		} catch (Exception e) {e.printStackTrace();}
